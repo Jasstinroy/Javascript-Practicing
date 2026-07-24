@@ -1,6 +1,9 @@
  let arr=[2,8,3,3];
  arr[0]=1;
  console.log(arr);
+for(const ele of arr){
+    console.log(ele);
+  }
 
   const arr1=[1,2,3,4];
   arr1[0]=10;
@@ -20,7 +23,7 @@
   console.log(brr1);
   console.log(brr[0][2]);
   console.log(brr[1][3]);
-  for
+crr=[1,2,3,4,5];
 
 
 
