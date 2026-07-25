@@ -9,3 +9,12 @@ console.log(randomno);
 //-10 to 10
 let randomnumber1=Math.floor(Math.random()*12)-1;
 console.log(randomnumber1);
+
+if(Math.random<0.5){
+    console.log("Heads");
+}
+else{
+    console.log("Tails");
+}
+
+
