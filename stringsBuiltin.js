@@ -16,3 +16,4 @@ console.log(s.length);
   console.log(a);
   let arr=s.split('');
   console.log(arr);
+  
